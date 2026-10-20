@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "name": "NEF Viewing",
+  "description": "Revenge plugins for viewing Nikon RAW photos in Discord.",
+  "plugins": {
+    "marklong.nef-viewer": {
+      "name": "NEF Viewer",
+      "description": "Shows Nikon RAW (.nef, .nrw) attachments as photos in chat instead of files.",
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/MarkLong0467/Next-NEFViewing/gh-pages/pool/marklong.nef-viewer@1.0.0.zip",
+          "sha256": "8f73828e6f2e992be8f7c71bfd5b9bb07992bd76e5372b6aed6c0917a0660e59",
+          "size": 3743,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}
