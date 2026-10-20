@@ -19,7 +19,23 @@ Converted photos stay cached, so they show instantly the next time.
 
 ## Install
 
-1. Download `marklong.nef-viewer@1.0.0.zip` and copy it to your phone.
+### From link (recommended)
+
+1. In Discord, go to **Settings** > **Plugins** > **Advanced**.
+2. Paste this link into **Repository URL**, then tap **Add repository**:
+
+   ```
+   https://raw.githubusercontent.com/MarkLong0467/Next-NEFViewing/gh-pages
+   ```
+
+3. Go back to **Plugins**, open **Browse**, and install **NEF Viewer**.
+4. Turn the plugin on, then reload Discord.
+
+Updates arrive through the same link.
+
+### From file
+
+1. Download `marklong.nef-viewer@1.0.0.zip` from the `pool` folder on the `gh-pages` branch.
 2. In Discord, go to **Settings** > **Plugins** > **Advanced**.
 3. Tap **Install from file** and pick the ZIP.
 4. Turn the plugin on, then reload Discord.
