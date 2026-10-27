@@ -7,8 +7,8 @@
  * 3. A local MESSAGE_UPDATE swaps the attachment for the cached JPEG, so Discord renders an image.
  */
 
-import { Dispatcher } from '@revenge-mod/discord/common/flux'
-import { onFluxEventDispatched, Stores } from '@revenge-mod/discord/flux'
+import { Dispatcher } from '@valenced/discord/common/flux'
+import { onFluxEventDispatched, Stores } from '@valenced/discord/flux'
 import { convert, loadIndex, previews } from './convert'
 
 const RawFilePattern = /\.(nef|nrw)$/i

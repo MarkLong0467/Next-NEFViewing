@@ -1,6 +1,6 @@
 # Next NEF Viewing
 
-A [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) plugin for Discord Android.
+A [Valenced](https://github.com/Valenced/valenced) plugin for Discord Android.
 It shows Nikon RAW attachments (`.nef`, `.nrw`) as photos in chat, instead of as a file to download.
 
 ## How it works
@@ -35,7 +35,7 @@ Updates arrive through the same link.
 
 ### From file
 
-1. Download `marklong.nef-viewer@1.0.0.zip` from the `pool` folder on the `gh-pages` branch.
+1. Download `marklong.nef-viewer@1.0.1.zip` from the `pool` folder on the `gh-pages` branch.
 2. In Discord, go to **Settings** > **Plugins** > **Advanced**.
 3. Tap **Install from file** and pick the ZIP.
 4. Turn the plugin on, then reload Discord.
@@ -69,4 +69,4 @@ Source lives in `plugins/nef-viewer/js/`:
 
 ## License
 
-GPL-3.0, same as the Revenge plugin template this repository is based on.
+GPL-3.0, same as the Valenced plugin template this repository is based on.

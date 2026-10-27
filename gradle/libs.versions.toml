@@ -4,7 +4,7 @@ kotlin = "2.4.10"
 
 coroutines = "1.11.0"
 xposed = "82"
-revengeApi = "1.1.0"
+valencedApi = "1.0.0"
 
 compileSdk = "36"
 minSdk = "24"
@@ -14,7 +14,7 @@ javaVersion = "25"
 [libraries]
 kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "coroutines" }
 xposed-api = { module = "de.robv.android.xposed:api", version.ref = "xposed" }
-revenge-api = { module = "io.github.revenge:api", version.ref = "revengeApi" }
+valenced-api = { module = "app.valenced:api", version.ref = "valencedApi" }
 
 [plugins]
 android-library = { id = "com.android.library", version.ref = "agp" }
