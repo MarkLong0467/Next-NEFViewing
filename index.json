@@ -11,19 +11,6 @@
         "latest": "1.0.1"
       },
       "versions": {
-        "1.0.0": {
-          "url": "https://raw.githubusercontent.com/MarkLong0467/Next-NEFViewing/gh-pages/pool/marklong.nef-viewer@1.0.0.zip",
-          "sha256": "8f73828e6f2e992be8f7c71bfd5b9bb07992bd76e5372b6aed6c0917a0660e59",
-          "size": 3743,
-          "dependencies": {
-            "revenge.api": {
-              "version": ">=1 <2"
-            },
-            "discord": {
-              "version": "*"
-            }
-          }
-        },
         "1.0.1": {
           "url": "https://raw.githubusercontent.com/MarkLong0467/Next-NEFViewing/gh-pages/pool/marklong.nef-viewer@1.0.1.zip",
           "sha256": "e8ced22ce39e4b93e2ca4360cef5567dd9214f1c8504598a0d738d31a4b9c80c",
