@@ -6,8 +6,8 @@
 	"author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
 	"version": "1.0.1",
 	"dependencies": {
-		"revenge.api": {
-			"version": "*"
+		"valenced.api": {
+			"version": ">=1 <2"
 		},
 		"discord": {
 			"version": "*"

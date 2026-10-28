@@ -10,7 +10,7 @@
 		"resolveJsonModule": true,
 		"noEmit": true,
 		"tsBuildInfoFile": "${configDir}/build/tsconfig.tsbuildinfo",
-		"types": ["@revenge-mod/types"]
+		"types": ["@valenced/types"]
 	},
 	"include": ["${configDir}/**/*", "types"],
 	"exclude": ["${configDir}/build", "${configDir}/node_modules"]

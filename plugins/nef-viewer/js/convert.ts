@@ -1,4 +1,4 @@
-import { FileModule } from '@revenge-mod/discord/native'
+import { FileModule } from '@valenced/discord/native'
 import { toBase64 } from './base64'
 import { createRangeReader } from './http'
 import { findPreview, readJpegInfo, withOrientation } from './nef'
