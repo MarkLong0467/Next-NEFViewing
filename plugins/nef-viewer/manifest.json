@@ -4,10 +4,10 @@
 	"name": "NEF Viewer",
 	"description": "Shows Nikon RAW (.nef, .nrw) attachments as photos in chat instead of files.",
 	"author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"revenge.api": {
-			"version": ">=1 <2"
+			"version": "*"
 		},
 		"discord": {
 			"version": "*"
